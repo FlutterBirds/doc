@@ -22,7 +22,7 @@
 - [ ] Integrar uma api
 - [ ] Buscar dados
 - [ ] Listar dados
-- [ ] Salvar localidade do usuário
+- [ ] Filtrar dados
 
 # Tecnologias Usadas
 
