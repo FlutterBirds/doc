@@ -19,10 +19,17 @@
 
 # Requisitos Funcionais 
 
+<<<<<<< HEAD
 - [x] Integrar api
 - [x] Buscar dados
 - [x] Listar dados
 - [x] Filtrar dados
+=======
+- [ ] Integrar uma api
+- [ ] Buscar dados
+- [ ] Listar dados
+- [ ] Filtrar dados
+>>>>>>> cdc2918011218e61beeab8b703db03787d5adb21
 
 # Tecnologias Usadas
 
