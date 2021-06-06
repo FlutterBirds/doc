@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-🚧  **Em desenvolvimento**
+É uma aplicação que busca dados sobre índices da Covid-19, além disso conta com sistema de notícias sobre alertas da covid. O sistema é totalmente atualizado automaticamente.
 
 # Índice/Sumário
 
@@ -19,19 +19,14 @@
 
 # Requisitos Funcionais 
 
-- [ ] Integrar uma api
-- [ ] Buscar dados
-- [ ] Listar dados
-- [ ] Salvar localidade do usuário
+- [x] Integrar api
+- [x] Buscar dados
+- [x] Listar dados
+- [x] Filtrar dados
 
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Angular](https://angular.io/)
 
 # Contribuição
 
