@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-É uma aplicação que busca dados sobre índices da Covid-19, além disso conta com sistema de notícias sobre alertas da covid. O sistema é totalmente atualizado automaticamente.
+É uma aplicação que busca dados sobre índices da Covid-19, além disso conta com sistema de notícias sobre alertas da covid.
 
 # Índice/Sumário
 
